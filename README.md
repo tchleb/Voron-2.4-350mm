@@ -17,3 +17,6 @@
  - [x] Removed Chaoticlab CNC Voron Tap V1.0 & install Vitalii3D CNC Tap (done, 31.07.2024)
  - [x] Add BTT Smart Filament Sensor V2.0 (done, 18.10.2024)
  - [x] Removed BTT Smart Filament Sensor V2.0 (done, 07.11.2025) --> Not helpful, many pseudo-errors
+ - [x] Removed Vitalli3D CNC Tap (done, 23.01.2026) 
+ - [x] Installed A4T Toolhead, with Mellow Fly SHT36 v3 with Eddy Probe (done, 23.01.2026) 
+ 
